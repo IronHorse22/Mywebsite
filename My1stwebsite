@@ -1,19 +1,27 @@
-<html>
-	<h1>
-	Hello and welcome! 
-	</h1>
-		<body>
-			<h2> About me</h2>
-			<p>
-			Hello, I'm Daniel Morales, a highly accomplished and results-driven professional with over a decade of leadership experience in the U.S. Army. Throughout my military career, I specialized in recruitment, operational management, and training coordination, consistently achieving and exceeding goals in high-pressure environments. My journey has equipped me with exceptional skills in project management, strategic planning, and team leadership. I have a proven track record of optimizing processes, fostering team development, and driving organizational success. Recently, I expanded my expertise by working in the Recruiting Department at BEAT LLC, where I supported recruitment efforts, enhanced onboarding processes, and promoted employee engagement. 
-	I am excited to announce that I am making a career change into DevOps and Cyber Security. This transition aligns with my passion for technology and continuous learning. I am currently immersing myself in the latest DevOps methodologies and Cyber Security practices, building on my strong foundation in information security, strategic planning, and operations management. As I embark on this new path, I am committed to leveraging my extensive experience and skills to contribute to innovative solutions in the tech industry. I am enthusiastic about the opportunities ahead and look forward to making a positive impact in the fields of DevOps and Cyber Security.
-		</p>
-		<h2> What i'm working on. </h2>
-		<p> 
-		I am currently immersing myself in a dynamic mix of technologies, exploring HTML, Python, Linux, and networking intricacies. Alongside mastering Git and GitLab for version control, I am actively engaged in crafting a captivating website. This platform will not only document my journey but also serve as a vibrant showcase of my projects, insights, and evolving expertise in these domains.
-		</p>
-		<h3>Thank you for visiting my website. Feel free to connect with me as I navigate this exciting career transition.</h3>	
-		<p></p>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel Morales - About Me</title>
+</head>
+<body>
+    <h1>Hello and welcome!</h1>
+    
+    <h2>About me</h2>
+    <p>
+        Hello, I'm Daniel Morales, a highly accomplished and results-driven professional with over a decade of leadership experience in the U.S. Army. Throughout my military career, I specialized in recruitment, operational management, and training coordination, consistently achieving and exceeding goals in high-pressure environments. My journey has equipped me with exceptional skills in project management, strategic planning, and team leadership. I have a proven track record of optimizing processes, fostering team development, and driving organizational success. Recently, I expanded my expertise by working in the Recruiting Department at BEAT LLC, where I supported recruitment efforts, enhanced onboarding processes, and promoted employee engagement.
+    </p>
+    <p>
+        I am excited to announce that I am making a career change into DevOps and Cyber Security. This transition aligns with my passion for technology and continuous learning. I am currently immersing myself in the latest DevOps methodologies and Cyber Security practices, building on my strong foundation in information security, strategic planning, and operations management. As I embark on this new path, I am committed to leveraging my extensive experience and skills to contribute to innovative solutions in the tech industry. I am enthusiastic about the opportunities ahead and look forward to making a positive impact in the fields of DevOps and Cyber Security.
+    </p>
+    
+    <h2>What I'm working on</h2>
+    <p>
+        I am currently immersing myself in a dynamic mix of technologies, exploring HTML, Python, Linux, and networking intricacies. Alongside mastering Git and GitLab for version control, I am actively engaged in crafting a captivating website. This platform will not only document my journey but also serve as a vibrant showcase of my projects, insights, and evolving expertise in these domains.
+    </p>
+    
+    <h3>Thank you for visiting my website. Feel free to connect with me as I navigate this exciting career transition.</h3>
+</body>
 </html>
 
